@@ -2,7 +2,7 @@
 
 ![Twitter Logo](https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg)
 
-## Project Overview
+# Project Overview
 
 Welcome to the Twitter Education Trends Analysis project! In this project, we aim to analyze a vast collection of Twitter data to determine whether Twitter can be considered a credible source of information reflecting important trends in education. We have access to approximately 100 million Tweets, with a focus on topics related to education, schools, universities, learning, and knowledge sharing.
 
@@ -32,7 +32,7 @@ In this section, we'll outline the technology stack and tools employed to conduc
 
 - **Locality-Sensitive Hashing (LSH):** LSH is a technique used for approximate similarity search in high-dimensional spaces. In our project, LSH assists in identifying tweets or topics with similar content, allowing us to group related discussions and trends.
 
-## Project Objectives
+# Project Objectives
 
 Our primary objectives in this project are as follows:
 
@@ -42,7 +42,7 @@ Our primary objectives in this project are as follows:
 
 3. **Analyze Content Originality:** Investigate whether the majority of tweets represent original content or are merely retweets and copies of the original messages.
 
-## Methodology
+# Methodology
 
 To achieve these objectives, we will follow a structured analysis process:
 
@@ -54,6 +54,6 @@ To achieve these objectives, we will follow a structured analysis process:
 
 4. **Originality Assessment:** We will analyze the content of tweets to distinguish between original messages and retweets. This will help us understand the extent to which information is being disseminated on the platform.
 
-## Conclusion
+# Conclusion
 
 By harnessing the power of GCP, Big Data processing with Spark, and advanced techniques like LSH, we aim to provide valuable insights into the Twitter education discourse. Through data analysis and visualization, we can present our findings effectively, contributing to a better understanding of the role of Twitter in education trend identification and information dissemination.
